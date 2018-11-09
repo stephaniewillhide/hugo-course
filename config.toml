@@ -4,5 +4,5 @@ title = "Hugo Udemy Course"
 theme = "hugo-creative-portfolio-theme-master"
 
 [params]
-  copyright = "SW 2017"
+  copyright = "SW 2018"
   sidebarAbout = ["A sample blog created while completing <a href='https://www.udemy.com/static-site-with-hugo/'>Creating a Static Site with Hugo</a>", "Quick impressions and thoughts"]
