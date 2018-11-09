@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/resources/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/resources/</loc>
     <lastmod>2018-11-05T21:39:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/next-steps/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/next-steps/</loc>
     <lastmod>2018-11-05T21:34:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/overall-thoughts/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/overall-thoughts/</loc>
     <lastmod>2018-11-05T21:11:34-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/downloading-themes/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/downloading-themes/</loc>
     <lastmod>2018-11-05T20:24:35-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/relevant-topics/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/relevant-topics/</loc>
     <lastmod>2018-11-05T20:15:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/renewing-basics/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/renewing-basics/</loc>
     <lastmod>2018-11-05T20:14:58-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/other-topics-discussed/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/other-topics-discussed/</loc>
     <lastmod>2018-11-04T19:35:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/</loc>
     <lastmod>2018-11-05T21:39:39-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/posts/</loc>
     <lastmod>2018-11-05T21:39:39-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://stephaniewillhide.github.io/hugo-course/tags/</loc>
     <priority>0</priority>
   </url>
   
